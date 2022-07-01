@@ -1,0 +1,3 @@
+unvicorn
+boto3
+fastapi
